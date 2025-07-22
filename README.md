@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Taief</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan...</h3>
-<img src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif" alt="photo" width="50%" height="350px">
+<img src="https://i.pinimg.com/originals/83/4f/38/834f3887bde180c0d471f00389466b9c.gif" alt="photo" width="50%" height="350px" align='left'>
 
 - 🔭 I’m currently working on **Personal Portfilo**
 
